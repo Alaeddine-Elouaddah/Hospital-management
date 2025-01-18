@@ -1,0 +1,22 @@
+
+
+**Database Name: hospitalManagement
+
+**Developed by Mohsine Otamni Alae Fatimazzahra
+
+**Recommended PHP Version 5.6 or Newer
+
+
+**Admin Login Details**
+
+Username: toumi
+Password: toumi123
+
+Prendre un rendez-vous crée un compte pour le patient
+
+
+
+
+
+
+
